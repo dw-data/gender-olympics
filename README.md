@@ -14,7 +14,9 @@ The file linked above was the starting point for the analysis. Its accuracy was 
 
 For instance, when the dataset was first collected, a 2008 bronze long jump medal was still awarded to the Russian athlete Tatyana Lebedeva. However, in July 2018, [she had to return her award due to a doping conviction](https://www.espn.com/olympics/story/_/id/24197219/russians-tatyana-lebedeva-maria-abakumova-stripped-2008-olympic-medals). 
 
-The original file won't show this correction, but all the figures mentioned directly in our story take similar cases into account. If a number is mentioned there explicitly, then it was double checked against those changes. This was not done with the entire dataset, though, and one might find similar incosistencies while browsing it. Nevertheless, they are minor exceptions and won't affect the overall conclusions drawn by the text. 
+The original file won't show this correction, but all the figures mentioned directly in our story take similar cases into account. If a number is mentioned there explicitly, then it was double checked against those changes. This was not done with the entire dataset, though, and one might find similar incosistencies while browsing it. Nevertheless, they are minor exceptions and won't affect the overall conclusions drawn by the text.
+
+It's also noteworthy that statistics for the Olympic Games of the first half of the 20th century are often precarious, with numbers changing according to the source used. The 1900 Olympics is a good example of this issue: the Games were held as part of the 1900 Paris World Fair, and to this day there is disagreement about which contests were actual Olympic competitions and which were demonstration sports presented at the broader exposition.
 
 ## Methodology
 
