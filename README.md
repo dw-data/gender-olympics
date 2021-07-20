@@ -22,11 +22,9 @@ The analysis is based in the following assumption: if women are 50% of a country
 
 With this is mind, we computed the ratio of athletes of each gender in a team and compared it with the percentage of medals won by either men or women. 
 
-Then, we looked at countries in which this differences were the most significant to find places were men are winning more medals (overperforming) and less medals (underperforming) than their share on the team, as well as nations for which these numbers were even.
+Then, we found the countries in which this differences were the most significant. This allowed us to find nations in which women are consistently winning a higher (overperforming) or smaller (underperforming) percentage of medals than their share on the team, as well as the nations in which these numbers are consistently even. Nations with small teams and a small numbers of medals were not highlighted, since a single good result for any gender would skew the metric to one side and wouldn't be representative of a broader pattern.
 
-Nations with small teams and a small numbers of medals were not highlighted, since a single good result for any gender would skew the metric to one side and wouldn't be representative of a broader pattern.
-
-There are some caveats to this assumption, though. 
+There are some caveats to this methodology, though. 
 
 First, there's the question of team sports: take football, for instance. Even if an Olympic football team is composed of a total 18 athletes (11 startes and 7 substitutes), the medal count will register a single medal for the winning country. The small amount of team sports medals compared to the individual awards mitigates this issue, but it still has potential to skew the analysis in some cases. Again, the specific examples mentioned on the article were double-checked against this potential issue.
 
